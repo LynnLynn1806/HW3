@@ -1,0 +1,25 @@
+{
+  "name": "lynn",
+  "version": "1.0.0",
+  "description": "Beer Searching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynnLynn1806/HW3.git"
+  },
+  "author": "Paweena Intharasawun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LynnLynn1806/HW3/issues"
+  },
+  "homepage": "https://github.com/LynnLynn1806/HW3#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "http-server": "^0.10.0"
+  }
+}
